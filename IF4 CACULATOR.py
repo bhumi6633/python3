@@ -2,7 +2,7 @@
 """
 Created on Mon Aug 10 13:49:53 2020
 
-@author: Bhumi Shah
+@author: USER
 """
 
 a=int(input("enter a"))    

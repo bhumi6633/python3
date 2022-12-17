@@ -2,7 +2,7 @@
 """
 Created on Fri Jun 26 09:39:06 2020
 
-@author: Bhumi Shah
+@author: USER
 """
 
 #5!- 1*2*3*4*5
@@ -73,7 +73,6 @@ Created on Fri Jun 26 09:39:06 2020
 
 #(0+1=1) + (1+2=3) + (1+2+3=6) +......n
 #1+(1+2)+(1+2+3)+.....
-
 n=int(input("enter n"))
 s=0
 s1=0

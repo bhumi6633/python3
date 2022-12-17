@@ -2,7 +2,7 @@
 """
 Created on Sun Jun 28 12:52:18 2020
 
-@author: Bhumi Shah
+@author: USER
 """
 
 n = int(input("enter any no"))
