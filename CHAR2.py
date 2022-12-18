@@ -2,7 +2,7 @@
 """
 Created on Thu May  9 00:02:46 2019
 
-@author: Smriti
+@author: Bhumi
 """
 
 #x=65 # ascii value for A
